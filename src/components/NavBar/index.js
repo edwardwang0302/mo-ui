@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import StyledNavBar, { StyledMenuItem, MenuIcon, MenuItems } from "./style";
 import Badge from "components/Badge";
 import Avatar from "components/Avatar";
